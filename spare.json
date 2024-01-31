@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "scott-asset-test",
+  "private_key_id": "4835e600a56413d2b1ece130e237b06255399e16",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCk3z3gxALerHPu\nWYSr/R8U373hGeuD0i/31y7mNQgu2daiYgbklDSzAY87HUb4sBlzYxCNpz+a4g7l\nqT/hRmJOO/IU45v3CvAlDct8Tg60bJUbCNT0MrnF5R8bDqWcxzuGxU0kOhfNApyG\n3Z/OvDCK+GmSa7HQF4oyGO7rAVZcSYe1sdoP9aRVAJHzLd35P9yBAMImqOIiGFK+\nCOkmiYpBe7h9G41f2KwW1MLEG5RtLn05KAWmPWuZIIhdnQ7b0yBlpISXoxE2OD+q\n+wcOfAC8uvXrf+72ekBUCf9Lcc/L76MQH8pkzfz645clhxUxpuRFD3cPLPrZssdl\n/YYI3T57AgMBAAECggEAAyPeIzxe3zjWBTfrpyiGzmuSGHBy8N7KKErb5M++9fPf\nx6LDhaT6kyvR1SSYmz69xvNsqq+alLhlFwpJlWCbmYJAxeJHFsYJjtsbzgrg8tGP\nZ9ib0Ohw0b95MsqG0vaXpqVC890U/CpmXf2bzPpk/koyHVmZvsaqZiV3BdjPrHaq\n/E16CowmzpFY+7Vi1I7p6eJyHdPIGu27+5HjnnSwO92JLnjYF6AuWrS7eU5svjlA\nIPfXqxAb5jdIh/JmezEoym7YEusMWuPJGU396T10MIacrAXaroGCY0D5kthDiqRV\n11dldP3UMRizmu49h03scWNh645dqm5ExlLCU/AFCQKBgQDj00Fg2WQ9sdnwWftQ\nzcV4hQTvfIyNasiksWquVMGVUR4hI5sQG8m3X0nuaxnzWyUrLxNJORKu4gJgVaKK\nomkBV1hZ4QA/vU7eZqGfg7jI3Td+7ORfB0jXRqiFSDdqbnuvPdrIaMkfj0ZFV0XZ\n4sgGkccteUG7VDVyQBSxLYmkvQKBgQC5QvHG8HfF+27quVJakFB+z6aAxoRJfsdk\nRpA0Gobh1WGZ+SSSqdpKolFTK7N6TCloOhRHAhyiZX5Q4UVJ2w/3BdcolpM3S1oF\nSKM8TSi7/+sUVihReHHVBaLF+dO6YDn5tl5wnYjTodKVHIKFmt5C9BZYUvVLFupm\ntLXgE34PlwKBgQCfWIzrvmE8PX7fezAqDiJF71PKZWSxLLT1bBnfoOxdEYVvTEYS\neD0YAo/lMAfQjDltANoOZtrIcs+SrZKoQHwNMhhblOHlsvTM3R/CQBEofIFqRypb\nxO6Pk54eyqnnySq9IRg6//9cEYvmx+nVQacB4UhcZ+kvqvBO3r8aRW12SQKBgQCa\nEgGO6BdD8JnK3XqO1KwM+lZHjFEh6iyayVBN9K2uDM5RxfBThKyFGz61A4gMsmBR\nTNPmRexYZj3Jt77u8B7z2ciY+bjO6HyiHkma8bRpvSjczdZUAu3wMfKv4NfjjPlK\nIg+ianELR+4gkgg+YpBrcCFRLRTQcOtZpPoIs01IWwKBgH1HodG979lmyAPfFk6r\nPaAMJEcejlUncAdYKqj13nBlFJIr2uYmQfDTl4rx3kPeL0KC0/ynQOWldq0ummXD\n5T+3SoRk2TgV2ItjcGthQhyXc/AE4vFZ7LHjzaZGgBeVgULW4ZIeal29iqwHVLFW\nwaUK4Swpm/8g6E7Rzi3U9Ezp\n-----END PRIVATE KEY-----\n",
+  "client_email": "keytest@scott-asset-test.iam.gserviceaccount.com",
+  "client_id": "107761921682910075429",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/keytest%40scott-asset-test.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
